@@ -5,22 +5,24 @@ body {
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   word-break: break-word;
-  padding: 60px 0 120px 0;
+  padding: 30px 0 60px 0;
 }
 
 h1 {
-  font-size: 64px;
+  font-size: 50px;
   font-weight: bold;
   letter-spacing: -0.05em;
   line-height: 1.25em;
+  margin: 10px 0 5px 0;
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 26px;
   font-weight: regular;
   letter-spacing: -0.05em;
   line-height: 1.25em;
   color:#9B9B9B;
+  margin: 10px 0 5px 0;
 }
 
 .centered {
@@ -28,7 +30,7 @@ h2 {
 }
 
 #header {
-  margin: 0 0 60px 0;
+  margin: 0 0 30px 0;
 }
 
 #drivy-bg-image {
@@ -55,16 +57,16 @@ p.quote {
 }
 
 #monclassement {
-  margin: 60px 0 60px 0;
+  margin: 30px 0 30px 0;
 }
 
 #monclassement h1 {
-  font-size: 48px;
+  font-size: 40px;
   margin: 0;
 }
 
 #monclassement h2 {
-  font-size: 36px;
+  font-size: 24px;
   margin: 0;
 }
 
