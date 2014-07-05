@@ -42,6 +42,10 @@ h2 {
   background-position: center;
 }
 
+#drivy-bg-image:hover {
+  opacity: 0.95;
+}
+
 p.quote {
   text-align:center;
   font-weight: 200;
